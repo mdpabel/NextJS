@@ -17,6 +17,7 @@ const Product = () => {
           </li>
         ))}
       </ul>
+      <Link href="/product/2020/1/1">Filter by date</Link>
     </div>
   );
 };
